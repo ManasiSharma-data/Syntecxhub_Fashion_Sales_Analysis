@@ -1,4 +1,4 @@
-# Syntexhub_Fashion_Sales_Analysis
+# Syntecxhub_Fashion_Sales_Analysis
 # Fashion Sales Analysis Dashboard
 
 This project was created using Power BI and Excel.
